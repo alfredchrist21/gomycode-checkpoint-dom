@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap%27');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: font-family: 'Poppins', sans-serif
+}
+.panier{
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+section{
+    padding: 250px;
+    border: 15pxhsl(233, 47%, 7%);
+    background-color: hsl(233, 47%, 7%);
+}
+.section{
+   
+    background-color: white;
+}
+.input-1-one{
+    margin-right: ;
+}
+.input-one{
+    margin-right: 80px;
+    margin-left: 20px;
+}
+.input-1-two{
+    margin-right: ;
+}
+.input-two{
+    margin-right: 80px;
+    margin-left: 20px;
+}
+.section img{
+    height: 100px;
+    width: 100px;
+ 
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.box-part-1{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+
+    
+}
+.sous-total{
+    margin-right: 25px;
+}
+.box-part-2{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{ 
+    margin-left: 0px;
+    margin-top: 50px;
+    margin-right:75px ;
+    
+}
+.input{
+    margin-top: 50px;
+}
+.btn button {
+    
+}
+.nomdelarticle{
+   margin-left: 10px;
+   margin-right: 50px;
+}
+.quantite{
+    margin-right: 50px;
+}
+.prix-total{
+  margin-right: 35px;
+}
+.t-shirt{
+    margin-top: 40px;
+    margin-left: 5px;
+    color: red;
+}
+.paniers{
+    margin-left: 5px;
+}
+input{
+    height: 15px;
+    width: 70px;
+    margin-right: 40px;
+    opacity: 1;
+}
+.btn-moins{
+    background-color: gray;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+
+}
+.btn-chiffres{
+    height: 25px;
+    width: 50px;
+}
+.btn-plus{
+    background-color: gray;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+ }
+.img{
+     display: flex;
+     margin-bottom: 25px;
+}
+/* partie 4 */
+.partie-4{
+    display: flex;
+    justify-content: space-between;
+}
+.barre-1{
+    margin-left:20px
+
+}
+.barre-2{
+    margin-right: 200px;
+}
+.barre-2 input{
+    border: 2px solid gray;
+}
+.ajp{
+    margin-right: 25px;
+    border: px solid green;
+    margin-bottom: 15px;
+   
+}
+.search{
+    height: 20px;
+    width: 150px;
+}
+
+.ajp button{
+    background-color: #269cd1; la couleur bleue ciel
+    border-radius: 15%;
+    height: 30px;
+    width: 150px;
+    color: honeydew;
+    
+}
+input{
+    border: 2px solid gray;
+}
